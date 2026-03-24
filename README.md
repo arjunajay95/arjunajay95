@@ -15,16 +15,6 @@ I don't just learn concepts. I ship things.
   
 <br>
 
-## 🚀 Recent Projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| [NexusTrack](https://github.com/arjunajay95/NexusTrack-Dashboard) | HTML5, Tailwind v4, Vanilla JS | Task management dashboard. 150-300 concurrent tasks, live search, real-time DOM updates. No frameworks, by design. |
-| [TaxPal](https://github.com/arjunajay95/taxpal-tailwind) | HTML5, Tailwind v4 | Production-quality SaaS landing page rebuilt from scratch. Fully responsive, zero dependencies. |
-| [SL Tax Calculator](https://github.com/arjunajay95/sl-tax-calculator) | Python 3 | Progressive tax bracket logic across 6 tiers. 86% test pass rate across 29 cases. |
-
-<br>
-
 ## 🧰 Tools I Use
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
