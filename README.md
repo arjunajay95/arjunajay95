@@ -1,6 +1,6 @@
 # Hey, I'm Arjuna 👋
 
-You can call me AJ. Former Hollywood VFX developer turned Frontend Engineer. I spent 2.5 years writing code that made things explode convincingly on screen. 
+You can call me AJ. Former Hollywood VFX Developer turned Frontend Engineer. I spent 2.5 years writing code that made things explode convincingly on screen. 
 Now I channel the same energy to make things look epic in browsers.
 
 I don't just learn concepts. I ship things.
