@@ -8,7 +8,7 @@ Now I channel the same energy to make things look epic in browsers.
 ## 🔨 What I'm Building & Learning
 
 - Working through a full-stack software engineering bootcamp covering **React**, **Next.js**, **Node/Express**, **PostgreSQL** and **Prisma**
-- Actively integrating AI tooling (Copilot, Cursor, Claude) into my daily workflow as a genuine force multiplier, not just autocomplete
+- Actively integrating AI tooling (Copilot, Cursor, Claude) into my daily workflow as a genuine force multiplier, not just autocomplete.
 - Deep in React right now. Project incoming!
   
 <br>
@@ -33,7 +33,7 @@ Now I channel the same energy to make things look epic in browsers.
 
 - 🎬 I have VFX credits on a feature film - Rogue Trooper! (Releasing 2026) 
 - ☕ Coffee + 🎧 Linkin Park = My unofficial productivity stack.
-- 😶‍🌫️ I lived in the UK for a few years, which means I have strong opinions about the weather there.
+- 😶‍🌫️ I lived in the UK for some time, which means I have strong opinions about the weather there.
 - 🎨 Spent years chasing the overlap between art and tech. Frontend dev is where I finally found it.
 - 👀 Sneak peek into my (off-work) art/vfx stuff: [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.arjunajayofficial.artstation.com)  [![IMDB](https://img.shields.io/badge/IMDb-F5C518?style=flat&logo=imdb&logoColor=black)](https://www.imdb.me/arjunajay)
 
