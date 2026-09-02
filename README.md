@@ -1,6 +1,8 @@
 # Hey, I'm Arjuna 👋
 
-You can call me AJ. I'm a Full-Stack Software Engineer who transitioned into tech after spending over two and a half years building procedural simulation systems in the visual effects industry. I specialize in backend architecture and scalable web applications, with hands-on experience driving multi-tenant B2B licensing platforms and peer review tools. Whether it's designing REST APIs, optimizing database queries, or structuring clean frontend code, I love solving complex technical challenges.
+You can call me "AJ" :) 
+<br><br>
+I'm a Full-Stack Software Engineer who transitioned into tech after spending over two and a half years building procedural simulation systems in the visual effects industry. I specialize in backend architecture and scalable web applications, with hands-on experience driving multi-tenant B2B licensing platforms and peer review tools. Whether it's designing REST APIs, optimizing database queries, or structuring clean frontend code, I love solving complex technical challenges.
 
 <br>
 
