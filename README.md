@@ -1,31 +1,32 @@
 # Hey, I'm Arjuna 👋
 
-You can call me AJ. Former Hollywood VFX Technical Director turned Frontend Engineer. I spent 2.5 years writing code that made things explode on screen. 
-Now I channel the same energy to make things look epic in browsers.
+You can call me AJ. I'm a Full-Stack Software Engineer who transitioned into tech after spending over two and a half years building procedural simulation systems in the visual effects industry. I specialize in backend architecture and scalable web applications, with hands-on experience driving multi-tenant B2B licensing platforms and peer review tools. Whether it's designing REST APIs, optimizing database queries, or structuring clean frontend code, I love solving complex technical challenges.
 
 <br>
 
 ## 🔨 What I'm Building & Learning
 
-- Working through a full-stack software engineering bootcamp covering **React**, **Next.js**, **Node/Express**, **PostgreSQL** and **Prisma**
-- Actively integrating AI tooling (Copilot, Cursor, Claude) into my daily workflow as a genuine force multiplier, not just autocomplete.
-- Deep in React right now. Project incoming!
-  
+- **Architecting Backend Systems:** Recently engineered the end-to-end backend for a multi-tenant B2B licensing platform using Java, Spring Boot, and PostgreSQL. I actively study software system design, focusing deeply on API contracts, database schemas, and data flows.
+- **Full-Stack Development:** Building *CodeCritic*, a peer code review platform, utilizing Next.js, Node.js, Express, TypeScript, and Prisma.
+- **Frontend Optimization:** Actively working with React and Tailwind CSS, focusing on mobile-first design and keeping utility classes strictly organized by layout, spacing, and typography for maintainable code.
+- **Exploring AI:** Expanding my skill set into Agentic systems and LLM application development using tools like LangGraph and RAG.
+
 <br>
 
 ## 🧰 Tools I Use
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <br>
 
@@ -34,7 +35,6 @@ Now I channel the same energy to make things look epic in browsers.
 - 🎬 I have VFX credits on a feature film - Rogue Trooper! (Releasing 2026) 
 - ☕ Coffee + 🎧 Linkin Park = My unofficial productivity stack.
 - 😶‍🌫️ I lived in the UK for some time, which means I have strong opinions about the weather there.
-- 🎨 Spent years chasing the overlap between art and tech. Frontend dev is where I finally found it.
 - 👀 Sneak peek into my (off-work) art/vfx stuff: [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat&logo=artstation&logoColor=white)](https://www.arjunajayofficial.artstation.com)  [![IMDB](https://img.shields.io/badge/IMDb-F5C518?style=flat&logo=imdb&logoColor=black)](https://www.imdb.me/arjunajay)
 
 <br>
