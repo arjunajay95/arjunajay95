@@ -6,8 +6,8 @@ You can call me AJ. I'm a Full-Stack Software Engineer who transitioned into tec
 
 ## 🔨 What I'm Building & Learning
 
-- **Architecting Backend Systems:** Recently engineered the end-to-end backend for a multi-tenant B2B licensing platform using Java, Spring Boot, and PostgreSQL. I actively study software system design, focusing deeply on API contracts, database schemas, and data flows.
-- **Full-Stack Development:** Building *CodeCritic*, a peer code review platform, utilizing Next.js, Node.js, Express, TypeScript, and Prisma.
+- **Architecting Backend Systems:** Recently engineered the end-to-end backend for a multi-tenant B2B licensing platform (LES - Licensing & Entitlement Server) using Java, Spring Boot, and PostgreSQL. I actively study software system design, focusing deeply on API contracts, database schemas, and data flows.
+- **Full-Stack Development:** Building *CodeComrade*, a peer code review platform, utilizing Next.js, Node.js, Express, TypeScript, and Prisma.
 - **Frontend Optimization:** Actively working with React and Tailwind CSS, focusing on mobile-first design and keeping utility classes strictly organized by layout, spacing, and typography for maintainable code.
 - **Exploring AI:** Expanding my skill set into Agentic systems and LLM application development using tools like LangGraph and RAG.
 
